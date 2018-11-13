@@ -8,12 +8,18 @@
     height:50px;
     width:50px;
 }
-.carousel {
-    position: relative;
-    margin: 656px 0px 0px 0px;
-}
 .rounded {
     border-radius: 1.05rem!important;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: wheat;
+    text-align: left;
+    background-color: #000000;
 }
 .background {
     position: relative;
@@ -37,6 +43,7 @@ div .container {
     width: 100%;
     height: 500px;
     overflow: hidden;
+    margin-top: -750px;
 }
 .container {
     width: 100%;
@@ -44,7 +51,7 @@ div .container {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    margin-top: -450px;
+    margin-top: 78px;
 }
 .navbar {
     position: relative;
@@ -65,7 +72,7 @@ div .container {
     text-align: justify;
     padding: 0px 15px 0 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 1em;
+    font-weight: .1em;
 }
 .nav-tabs {
     border-bottom: 1px solid #dee2e6;
@@ -86,7 +93,7 @@ div .container {
     position: initial;
 }
 footer {
-    border-top: 10px solid #ffff00;
+    border-top: 10px solid #ffae00;
     text-align: center;
     background: #333;
     color: white;

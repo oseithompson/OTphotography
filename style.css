@@ -8,6 +8,15 @@
     height:50px;
     width:50px;
 }
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: 2.5rem;
+}
+.navbar-expand-lg .navbar-nav {
+    -ms-flex-direction: row;
+    flex-direction: row;
+    flex: auto;
+}
 .rounded {
     border-radius: 1.05rem!important;
 }
@@ -41,7 +50,7 @@ img {
 div .container {
     position: relative;
     width: 100%;
-    height: 500px;
+    height: 745px;
     overflow: hidden;
     margin-top: -750px;
 }

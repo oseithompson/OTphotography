@@ -15,6 +15,10 @@
     padding-right: .5rem;
     padding-left: 2.5rem;
 }
+.modal-dialog {
+    max-width: 500px;
+    margin: 7.75rem auto;
+}
 .navbar-expand-lg .navbar-nav {
     -ms-flex-direction: row;
     flex-direction: row;
@@ -24,7 +28,7 @@
     border-radius: 1.05rem!important;
 }
 body {
-    margin: 0;
+    margin: 15px;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
     font-size: 1rem;
     font-weight: 400;
@@ -97,7 +101,7 @@ div .container {
     margin: 36px 0px 0px 0px;
 }
 .wrapper {
-    margin: -59px 0px 0px 0px;
+    margin: -59px 15px 0px 0px;
     height: 108%;
     position: absolute;
 }

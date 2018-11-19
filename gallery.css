@@ -1,3 +1,39 @@
+.fa {
+    padding: 10px;
+    font-size: 15px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 5px;
+    border-radius: 100%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  a:hover {
+    color: #999;
+    text-decoration: unset;
+  }
+
+  .fa-facebook {
+    background: #555;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #555;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #555;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #555;
+    color: white;
+  }
 .banner >img{ 
     bottom: 0;
     left: 0;
